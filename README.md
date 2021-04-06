@@ -2,7 +2,6 @@
 # POMODORO TIMER 
 ## This app is designed to simulate the Pomodoro method through the use of a digitized timer that serves to enhance one's studying efficiency. 
 <!-- Horizontal line --> 
-<!-- Horizontal line --> 
 ___
 ![Pomodoro Timer in Action](/public/app-in-action.PNG?raw=true "App Display")
 ___
